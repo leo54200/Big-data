@@ -1,0 +1,53 @@
+# Java-specific
+*.class
+*.jar
+*.war
+*.ear
+*.so
+*.dylib
+*.jnilib
+*.log
+*.out
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.settings/
+*.classpath
+*.project
+*.externalToolBuilders/
+
+# NetBeans
+.nbproject/
+
+# Maven build directories
+target/
+*.log
+
+# Gradle build directories
+.gradle/
+build/
+
+# Hadoop output
+/outputs/
+*-.out
+*-.err
+
+# Hadoop specific files
+*.crc
+local/*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log

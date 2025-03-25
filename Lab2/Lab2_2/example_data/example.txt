@@ -1,0 +1,5 @@
+water 10
+coca 1
+nuts 129
+orange 560
+charger 160
